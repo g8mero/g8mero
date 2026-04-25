@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hello 👋 </h1>
 
-<!--
-**g8mero/g8mero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+he/him
+</p>
 
-Here are some ideas to get you started:
+## Working on
+[LincolnMUN](https://github.com/lincolnmun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🌍 International Public Speaker and Debater: IISPSC 2023, BRAMUN 2026
+🌱 Raised $2,000+ to plant endemic species around Bermuda; Hosted local cleanups, mobilizing 60+ community members
+📖 Coached hockey; Taught Science, Technology and Maths; 
