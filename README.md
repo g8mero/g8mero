@@ -5,7 +5,7 @@ he/him
 </p>
 
 ## Working on
-[LincolnMUN](https://github.com/lincolnmun)
+[LincolnMUN](https://github.com/lincolnmun)  👀
 
 ## About Me
 - 🌍 International Public Speaker and Debater: IISPSC 2023, BRAMUN 2026
