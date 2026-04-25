@@ -1,8 +1,5 @@
 <h1 align="center"> Hello 👋 </h1>
 
-<p align="center">
-he/him
-</p>
 
 ## Working on
 [LincolnMUN](https://github.com/lincolnmun)  👀
