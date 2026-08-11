@@ -10,7 +10,7 @@
 **GreenPages:**
 Like Grammarly, but for clean print jobs. Flags wasteful print formatting in Google Docs and suggests eco-friendly fixes to reduce wasting pages & ink.
 
-**`~/languages`**
+**`~/stack`**
 
 <p>python &nbsp; java &nbsp; html &nbsp; css &nbsp; javascript &nbsp; react &nbsp; tailwindcss &nbsp; firebase &nbsp; git &nbsp; linux</p>
 
