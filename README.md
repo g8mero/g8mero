@@ -2,7 +2,7 @@
   
 ## Hi there 👋
 
-> High school Student in Buenos Aires.<br>
+> High school student in Buenos Aires.<br>
 > I build cool stuff.
 
  **`~/in-progress`**
