@@ -14,6 +14,6 @@ Like Grammarly, but for clean print jobs. Flags wasteful print formatting in Goo
 
 <p>python &nbsp; java &nbsp; html &nbsp; css &nbsp; javascript &nbsp; react &nbsp; tailwindcss &nbsp; firebase &nbsp; git &nbsp; linux</p>
 
-`~/awards`
+`~/hacks`
 <p>United States Artificial Intelligence Institute Global AI Hackathon, Finalist</p>
  </samp>
